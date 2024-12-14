@@ -1,0 +1,4 @@
+name: df1Interface
+version: '1.0'
+main: daf1rs.df1Interface.Plugin
+api-version: '1.21'
